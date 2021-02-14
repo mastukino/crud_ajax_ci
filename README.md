@@ -22,9 +22,6 @@ Controller merupakan bagian instruksi aksi yang menghubungkan model dan view, ja
 
 Spesifikasi yang dibutuhkan CodeIgniter 4 : Menurut dokumentasi resmi CodeIgniter, CI 4 membutuhkan dan menggunakan spesifikasi PHP >= 7.2 , bila anda masih menggunakan PHP < 7.2 disarankan untuk melakukan Update.
 
-# Installasi CodeIgniter 4
-untuk menginstall CodeIgniter 4 dapat dilakukan dengan 2 cara, yaitu dengan manual download dari web codeigniter. Untuk Installasi Manual pada CodeIgniter 4,  sebenarnya persis dengan cara menginstall CodeIgniter 3, dengan mendownload file CodeIgniter ke website nya yaitu: https://codeigniter.com/ yang versi 4.0.2 atau langsung saja ke link berikut : https://github.com/codeigniter4/framework/archive/v4.0.2.zip lalu extrack file CodeIgniter anda ke web server anda, misal xampp ke dalam folder htdocs. Xampp Windows : C:/xampp/htdocs
-
 # Instalasi Pada CodeIgniter 4
 Pada tahap ini kita akan menyiapkan hal-hal yang diperlukan.
 1.	Download Framework Codeigniter, klik link berikut: http://festyy.com/q5z0dk 
@@ -40,4 +37,7 @@ Pada tahap ini kita akan menyiapkan hal-hal yang diperlukan.
 11.	Copy and paste file bootstrap.min.css dari folder bootstrap/css/ yang telah diekstrak tadi ke folder xampp/htdocs/crud_ajax_ci/css/.
 12.	Copy and paste file bootstrap.min.js dari folder bootstrap/js/ yang telah diekstrak tadi ke folder xampp/htdocs/crud_ajax_ci/js/.
 13.	Copy and paste file jquery.min.js yang telah di download tadi ke folder xampp/htdocs/crud_ajax_ci/js/.
+
+lalu extrack file CodeIgniter anda ke web server anda, misal xampp ke dalam folder htdocs.
+Xampp Windows : C:/xampp/htdocs
 
