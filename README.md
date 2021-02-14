@@ -27,7 +27,7 @@ Pada tahap ini kita akan menyiapkan hal-hal yang diperlukan.
 1.	Download Framework Codeigniter, klik link berikut: http://festyy.com/q5z0dk 
 2.	Download jQuery, klik link berikut : http://destyy.com/qSqZWe 
 3.	Download Bootstrap, klik link berikut : http://destyy.com/qSqXfQ 
-4.	uat sebuah folder baru dengan nama crud_ajax_ci, lalu simpan pada folder xampp/htdocs/.
+4.	Buat sebuah folder baru dengan nama crud_ajax_ci, lalu simpan pada folder xampp/htdocs/.
 5.	Buat sebuah folder dengan nama css, lalu simpan pada folder xampp/htdocs/crud_ajax_ci/.
 6.	Buat sebuah folder dengan nama js, lalu simpan pada folder xampp/htdocs/crud_ajax_ci/.
 7.	Copy and paste file codeigniter_v3.7z yang telah di download tadi ke folder xampp/htdocs/crud_ajax_ci.
@@ -37,7 +37,4 @@ Pada tahap ini kita akan menyiapkan hal-hal yang diperlukan.
 11.	Copy and paste file bootstrap.min.css dari folder bootstrap/css/ yang telah diekstrak tadi ke folder xampp/htdocs/crud_ajax_ci/css/.
 12.	Copy and paste file bootstrap.min.js dari folder bootstrap/js/ yang telah diekstrak tadi ke folder xampp/htdocs/crud_ajax_ci/js/.
 13.	Copy and paste file jquery.min.js yang telah di download tadi ke folder xampp/htdocs/crud_ajax_ci/js/.
-
-lalu extrack file CodeIgniter anda ke web server anda, misal xampp ke dalam folder htdocs.
-Xampp Windows : C:/xampp/htdocs
 
